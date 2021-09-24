@@ -1,6 +1,5 @@
 # DorkMe
-<a href="https://asciinema.org/a/XT6U3c9XqwSNN4vTetxssc0e9" target="_blank"><img src="https://asciinema.org/a/XT6U3c9XqwSNN4vTetxssc0e9.png" /></a>
-
+This was my first script, please dont judge it! ;)
 # Dependencies
      pip install -r requirements.txt
 It is highly recommended to add more dorks for an effective search, keep reading to see how
